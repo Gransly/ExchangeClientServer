@@ -1,0 +1,13 @@
+.idea
+*.iml
+out
+gen
+
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
